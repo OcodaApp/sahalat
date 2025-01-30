@@ -59,6 +59,7 @@ class AboutController extends GetxController {
         ],
       );
     }).toList();
+
     return imageSliders;
   }
   // @override
